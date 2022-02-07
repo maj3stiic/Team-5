@@ -3,7 +3,7 @@
 $servername ="db";
 $username= "root";
 $password ="password";
-$dbname = "loginsystem";
+$dbname = "signup";
 
  //creating connection
 
